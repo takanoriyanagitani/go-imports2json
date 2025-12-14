@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/imports2json/imports2json
+imports2json.wasm
